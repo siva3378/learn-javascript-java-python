@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DateTest",
+            "request": "launch",
+            "mainClass": "javasamples.DateTest",
+            "projectName": "learn-js-java-phython_d195f48b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DateTest",
+            "request": "launch",
+            "mainClass": "Java.DateTest",
+            "projectName": "learn-js-java-phython_d195f48b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Table",
+            "request": "launch",
+            "mainClass": "Java.Table",
+            "projectName": "learn-js-java-phython_d195f48b"
+        }
+    ]
+}
